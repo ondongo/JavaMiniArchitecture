@@ -1,12 +1,11 @@
-package JavaMiniArchitecture;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import JavaMiniArchitecture.models.Article;
-import JavaMiniArchitecture.models.Categorie;
-import JavaMiniArchitecture.models.Unite;
-import JavaMiniArchitecture.services.Metier;
+import models.Article;
+import models.Categorie;
+import models.Unite;
+import services.Metier;
 
 public class Main {
     public static Scanner scanner = new Scanner(System.in);

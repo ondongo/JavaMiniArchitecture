@@ -1,4 +1,4 @@
-package JavaMiniArchitecture.models;
+package models;
 
 import java.util.ArrayList;
 

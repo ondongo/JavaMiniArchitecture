@@ -1,10 +1,10 @@
-package JavaMiniArchitecture.services;
+package services;
 
 import java.util.ArrayList;
 
-import JavaMiniArchitecture.models.Article;
-import JavaMiniArchitecture.models.Categorie;
-import JavaMiniArchitecture.models.Unite;
+import models.Article;
+import models.Categorie;
+import models.Unite;
 
 public interface Imetier {
 
